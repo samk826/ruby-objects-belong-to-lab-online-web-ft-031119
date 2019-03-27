@@ -8,3 +8,4 @@ class Song
     def @song
       song.title
 end
+end
